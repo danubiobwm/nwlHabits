@@ -37,7 +37,7 @@ Acesse a documentação de cada projeto:
 
 Você pode visualizar o layout do projeto através do link abaixo:
 
-- [Layout](https://www.figma.com/community/file/1169028343875283461)
+- [Layout](https://www.figma.com/file/mqDmwNVPPpVkzGvR6LRE8E/Habits-(i)-(Community)?t=M1BN4rbhypcTKATX-0)
 
 Lembrando que você precisa ter uma conta no [Figma](http://figma.com/).
 
